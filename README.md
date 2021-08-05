@@ -10,7 +10,7 @@ In the study, we learn to:
 * Use the Orange visual tool to create, analyze and test algorithms
 * Using the Python programming language to create Artificial Intelligence algorithms
 * Learn the Basics of Python Programming
-* Use the greedy search algorithms and A* (A Estrela) to find the shortest route between cities
+* Use the greedy search algorithms and A* (A Star) to find the shortest route between cities
 * Implement optimization algorithms for minimization and maximization problems
 * Implement an AI to predict the amount of tip to be given in a restaurant, using fuzzy logic
 * Use data exploration techniques applied to a COVID-19 disease database
